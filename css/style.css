@@ -222,6 +222,10 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: none;
 }
 
+.alignleft {
+      float: left;
+    padding-left: 1em;
+}
 #fh5co-nav {
   text-align: center;
   position: absolute;
@@ -500,6 +504,10 @@ h1, h2, h3, h4, h5, h6 {
   -moz-border-radius: 7px;
   -ms-border-radius: 7px;
   border-radius: 7px;
+}
+
+#resize-width{
+  max-width: 50%
 }
 @media screen and (max-width: 768px) {
   .fh5co-project .fh5co-imgs .img-holder-1,
