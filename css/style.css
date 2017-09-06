@@ -267,13 +267,18 @@ h1, h2, h3, h4, h5, h6 {
   color: white;
   border-bottom: rgba(255, 255, 255, 0.1) 2px solid;
 }
+.homepage {
+  background: linear-gradient(rgba(255, 0, 92, 0.6), #566E3D), url("https://gobindsethi.github.io/images/uximage.png");
+background-size: cover; 
 
+}
 #fh5co-header {
   height: 100vh;
   width: 100vw;
   position: relative;
   content: 'viewport-units-buggyfill; height:100vh; width: 100vw';
   display: table;
+  /*background-image: url("https://gobindsethi.github.io/images/macbook.png")*/
 }
 @media screen and (max-width: 768px) {
   #fh5co-header {
