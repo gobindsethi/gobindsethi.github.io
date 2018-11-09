@@ -268,7 +268,7 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: rgba(255, 255, 255, 0.1) 2px solid;
 }
 .homepage {
-  background: linear-gradient(rgba(255, 0, 92, 0.6), #566E3D), url("https://gobindsethi.github.io/images/wireframe.jpeg");
+  background: linear-gradient(rgba(109, 87, 87, 0.6), #566E3D), url("https://gobindsethi.github.io/images/wireframe.jpeg");
 /*background-size: cover; */
 background-size: 100% auto;
 
